@@ -1,4 +1,4 @@
 # Assignments
 CPRG 210 assignment details:
 
-## 3-page website
+## Assignment 1a: 3-page website

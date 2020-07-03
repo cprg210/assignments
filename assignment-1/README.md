@@ -1,6 +1,6 @@
   # Assignment 1: Static "Travel Experts" website
   ## Due Date
-  This assignment is due Wednesday, July 8th @ 8pm.
+  This assignment is due Thursday, July 9th @ 8pm.
 
   ## Value
   This assignment will be marked out of 30 points and will be worth 50% of the frontend portion of this course (25% of the total).

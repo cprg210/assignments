@@ -9,6 +9,7 @@
   - You are building a website for the "Travel Experts" agency. They have provided the following project requirements below.
   - Create 3 pages named “index.html”, “register.html”, and login.html”.
   - **Assume that signing up new users is a primary goal of the company**. Design your website accordingly.
+  - No frameworks are allowed for this project because the client is allergic to dependencies.
 
   ### Global Requirements
   - Each page should have a common page header, with the exception of the hero section on the home page (described in the next section).

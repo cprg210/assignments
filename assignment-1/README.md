@@ -1,4 +1,4 @@
-  # Assignment 1: 3-page "Travel Experts" website
+  # Assignment 1: Static "Travel Experts" website
   ## Due Date
   This assignment is due Wednesday, July 8th @ 8pm.
 

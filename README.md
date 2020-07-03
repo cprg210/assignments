@@ -1,5 +1,5 @@
 # CPRG 210 Assessment Breakdown
-## Assignment 1: 3-page static "Travel Experts" website
+## Assignment 1: Static "Travel Experts" website
 Due: July 9, 2020  
 Worth: 25%  
 [Assignment details](assignment-1/README.md)

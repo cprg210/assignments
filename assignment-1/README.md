@@ -10,6 +10,7 @@
   - Create 3 pages named “index.html”, “register.html”, and login.html”.
   - **Assume that signing up new users is a primary goal of the company**. Design your website accordingly.
   - No frameworks are allowed for this project because the client is allergic to dependencies.
+  - Attribute (in your project README) all work that is not your own.
 
   ### Global Requirements
   - Each page should have a common page header, with the exception of the hero section on the home page (described in the next section).
@@ -48,7 +49,7 @@
     - a site title (not the same as the company name) using `h1`.
     - a site tagline using `p`.
     - at least one `linear-gradient()`.
-  - Gallery section: This can be blank until you complete the Javascript portion of this assignment.
+  - Gallery section: This can be blank until you complete Assignment 2.
   - Contact section: use lists and paragraph tags to display the contact information for the agency and the individual agents. Use the mailing address for SAIT as a placeholder.
     - Include a form that has fields for emailing the site owner. Since you don’t have a server-side script to process the data (yet), use a free [static form service](https://css-tricks.com/a-comparison-of-static-form-providers/). Follow the instructions for your chosen service when adding the form to your page.
 
@@ -58,10 +59,10 @@
   - This page should not have enough content to create a scroll bar.
   - The footer should be visible at the bottom of the viewport.
   - Centered in the middle of the page should be an accessible form with the following fields:
-    - Full Name (text field)
-    - Email Address (email field)
-    - Password (password field)
-    - Confirm Password (password field)
+    - Full Name (text field, required)
+    - Email Address (email field, required)
+    - Password (password field, required)
+    - Confirm Password (password field, required)
     - Subscribe to Newsletter (checkbox)
 
   ### Login page
@@ -118,7 +119,7 @@
   - 1 point: Files are not submitted within 1 week of due date. Beyond one week of lateness, one mark will be subtracted per additional day that the file is late.
 
   ### Introduction of Submission
-  - 3 points: All files contain heading documentation identifying the author, date, course module and assignment.
+  - 3 points: Submission contains README documentation identifying the author, date, course module and assignment plus any instruction, comments, etc.
   - 2 points: Some of the required information is missing.
   - 1 point: No identifying documentation.
 

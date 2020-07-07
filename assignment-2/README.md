@@ -9,11 +9,30 @@ This assignment will be marked out of 30 points and will be worth 50% of the fro
 - Using the code you wrote for Assignment 1, enhance your travel website.
 - You should update existing code to fix bugs and modify the design as needed.
 
-### Global Requirements
-
-### Responsive hamburger menu
+### Form validation
+Use HTML5 form validation to enhance your registration and login forms:
+- Make all fields required. Make it obvious to the user that they are required (convention is to use a red asterisk).
+- Ensure the email field has the correct input type to enforce proper email formatting.
+- To protect the user's privacy, all password fields should 
+  - hide the characters typed into the form;
+  - enforce a minimum length of 8 characters;
+  - display a notice near the field notifying the user about the 8 character minimum length.
+- Add custom CSS styles for `:invalid` fields (for example, add a red outline when invalid).
 
 ### Destinations image gallery
+On your main page, create an array of objects (limit this to a reasonable number, perhaps 5 or 6 items). When the body of the page loads, loop through the array (i.e. using `array.forEach` or similar), get each object and add an image with description/link to a grid or flexbox gallery. 
+
+Each object will define 
+- the image `src` URL
+- the image `alt` text
+- description of a popular travel destination. 
+- link URL that will open an external website (in a new window/tab) relating to the image
+
+### Bonus points: Hamburger Menu
+Up to 3 additional points (to a max of 100% for the assignment) will be awarded for a working hamburger menu:
+- Full menu displayed for devices in 'landscape' orientation.
+- Menu replaced by Hamburger Menu icon for devices in 'portrait' orientation.
+- A JS click handler will toggle the menu when icon is clicked.
 
 ## Marking Rubric
 Hand in your source code files by saving them in a .zip file and dropping it into the drop folder on Brightspace.

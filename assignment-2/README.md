@@ -1,6 +1,6 @@
 # Assignment 2: Website enhancements
 ## Due Date
-This assignment is due Wednesday, July 12th @ 8pm.
+This assignment is due Sunday, July 12th @ 8pm.
 
 ## Value
 This assignment will be marked out of 30 points and will be worth 50% of the frontend portion of this course (25% of the total).
@@ -33,6 +33,8 @@ Up to 3 additional points (to a max of 100% for the assignment) will be awarded 
 - Full menu displayed for devices in 'landscape' orientation.
 - Menu replaced by Hamburger Menu icon for devices in 'portrait' orientation.
 - A JS click handler will toggle the menu when icon is clicked.
+
+Media queries based on `min-width` or `max-width` are acceptable.
 
 ## Marking Rubric
 Hand in your source code files by saving them in a .zip file and dropping it into the drop folder on Brightspace.

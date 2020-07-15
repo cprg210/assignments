@@ -56,7 +56,7 @@ For each page of your site:
 ### Additional Requirements
 - Each page should have a unique page `<title>`.
 - The current page should be indicated/highlighted in the global navigation (i.e. maybe the Contact link has a different background when the user is on the Contact page).
-- CSS for all pages should be linked to a single external stylesheet and be included in all pages using a template partial.
+- CSS should be linked as external stylesheets and be included in your views using a template partial.
 - The `footer` partial should contain a copyright notice for the current year using the `moment` module.
 
 ## Submitting Your Assignment

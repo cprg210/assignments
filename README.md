@@ -9,12 +9,7 @@ Due July 12, 2020
 Worth: 25%  
 [Assignment details](assignment-2/README.md)
 
-## Assignment 3: Node/Express
-Due: July 16, 2020  
-Worth: 25%  
-[Assignment details](assignment-3/README.md)
-
-## Assignment 4: Mongo/Mongoose
-Due: July 19, 2020  
-Worth: 25%  
-Details TBA 
+## Node Final
+Due: July 26, 2020  
+Worth: 50%  
+[Assignment details](node-final/README.md)

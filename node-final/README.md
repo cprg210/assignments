@@ -86,8 +86,8 @@ In order to receive a grade, you must:
 1. Deploy your Express/Mongoose app to Heroku and Atlas.
 2. Zip your project (NOT including node_modules) and submit them to Brightspace.
 3. In a comment with your Brightspace submission, include links to:
-    - your GitHub repo;
-    - deployed site.
+    - your GitHub repo (i.e: [`animals-heroku-atlas`](https://github.com/cprg210/animals-heroku-atlas));
+    - deployed site (i.e. [https://animals-heroku-atlas.herokuapp.com/](https://animals-heroku-atlas.herokuapp.com/)).
 
 ## Late Penalties
 For this assignment, there will be a 10% late penalty for each day the assignment is late. No assignments will be accepted more than three days late.

@@ -93,7 +93,7 @@ In order to receive a grade, you must:
 For this assignment, there will be a 10% late penalty for each day the assignment is late. No assignments will be accepted more than three days late.
 
 ## Marking Rubric
-This assignment will be marked out of 30 points. 5 points will be given for each of the following:
+This assignment will be marked out of 50 points. 5 points will be given for each of the following:
 1. **Code Quality** - The code is readable: indented, spaced and organized.
 2. **Project documentation** - Project has a detailed README and comments to make your instructor's life easier. The longer it takes them to figure out your code...
 3. **Project Setup** - The server is properly setup based on the requirements above.
